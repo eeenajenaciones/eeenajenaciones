@@ -6,6 +6,8 @@
 - Herramienta: [📸 Fotogrametría y escaneo 3D](herramientas/fotogrametrias.md)
 - Enunciado: [Quimera en la despensa](enunciados/quimera_en_la_despensa.md)
 
+< !-- *comment* --/>
+
 ### Semana 2 - 05/02/2024
 - ...
 
