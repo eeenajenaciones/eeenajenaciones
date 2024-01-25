@@ -1,4 +1,4 @@
-[🠔 Volver al índice](/semanas/README.md)
+[← Volver al índice](/semanas/README.md)
 
 *Semana 1*
 
