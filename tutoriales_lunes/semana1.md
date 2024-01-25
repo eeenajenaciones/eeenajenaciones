@@ -2,6 +2,7 @@
 
 # Fotogrametrías y escaneo 3D
 
+![altText](https://www.luma-ai.com/wp-content/uploads/2023/12/LGG.gif)
 
 
 **Herramientas gratuitas de escaneo 3D**
@@ -42,7 +43,7 @@ La quimera, una amalgama de sabores y texturas, comenzó a desplazarse entre las
 
 **Entrega**
 
-*5 de febrero de 2024 antes de las 19:00 en MIRO*
+*5 de febrero de 2024 antes de las 19:00 en [MIRO](https://miro.com/)*
 
 Subir planta y alzados de quimera generada
 
