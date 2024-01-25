@@ -1,4 +1,4 @@
-[← Volver al índice](/semanas/README.md)
+[🠔 Volver al índice](/semanas/README.md)
 
 *Semana 1*
 
@@ -14,3 +14,5 @@
 **Herramientas de modelado 3D**
 - Rhinoceros 
 - Blender
+
+**Enunciado semana 1** ➔ [Quimera en la despensa](/semanas/enunciados/quimera_en_la_despensa.md)
