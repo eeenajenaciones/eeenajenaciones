@@ -1,6 +1,6 @@
 [← Volver](/README.md)
 
-# 🛠️ Tutoriales de herramientas y enunciados
+# 🛠️ Herramientas y enunciados
 
 ### Semana 1 - 28/01/2024 
 - Herramienta: [📸 Fotogrametría y escaneo 3D](herramientas/fotogrametrias.md)
