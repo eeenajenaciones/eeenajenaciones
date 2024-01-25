@@ -8,7 +8,7 @@ Redes neuronales, prototipado, algoritmia y alquimia proyectual.
 ## 📌 MIRO
 [Acceso a MIRO](https://miro.com/)
 
-## 🛠️ Herramientas y enunciado
+## 🛠️ Herramientas y enunciados
 [Acceso a herramientas y enunciados](/semanas/README.md)
 
 ## 🧨 Referencias
