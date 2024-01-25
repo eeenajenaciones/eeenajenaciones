@@ -10,7 +10,8 @@
 **Herramientas gratuitas de escaneo 3D**
 - Reality Scan - https://www.unrealengine.com/en-US/realityscan
 - Luma AI - [https://lumalabs.ai/](https://lumalabs.ai/interactive-scenes)
-- Polyvam - https://poly.cam/
+- Polycam (en su versión gratuita solo expora los modelos en formato .gltf) - https://poly.cam/
+- Meshroom - https://alicevision.org/
 
 **Herramientas de modelado 3D**
 - Rhinoceros - https://www.rhino3d.com/es/
