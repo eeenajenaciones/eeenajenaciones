@@ -1,8 +1,8 @@
 # 🛠️ Tutoriales de herramientas y enunciados
 
 ### Semana 1 - 28/01/2024 
-- Herramienta: [📸 Fotogrametría y escaneo 3D](herramientas/semana1.md)
-- Enunciado: [Quimera en la despensa](enunciados/semana1.md)
+- Herramienta: [📸 Fotogrametría y escaneo 3D](herramientas/fotogrametria.md)
+- Enunciado: [Quimera en la despensa](enunciados/quimera_en_la_despensa.md)
 
 ### Semana 2 - 05/02/2024
 - ...
