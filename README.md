@@ -5,13 +5,16 @@ Redes neuronales, prototipado, algoritmia y alquimia proyectual.
 
 ![intro-to-cloud d49bc5f7](archivos/intro.gif)
 
-## 🔗 Links del curso
-- [Índice de semanas](/semanas/README.md)
-- [Acceso a MIRO](https://miro.com/)
-- Referencias...
-- Otros Links...
+## 📌 MIRO
+[Acceso a MIRO](https://miro.com/)
 
-## 🗂️ Repositorio de archivos
-- ....
+## 🛠️ Herramientas y enunciado
+[Acceso a herramientas y enunciados](/semanas/README.md)
+
+## 🧨 Referencias
+- ...
+
+## 🗃️ Repositorio de archivos
+- ...
 
 
