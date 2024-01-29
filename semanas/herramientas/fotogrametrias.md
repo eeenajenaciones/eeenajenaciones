@@ -4,7 +4,7 @@
 
 # Fotogrametrías y escaneo 3D
 
-![altText](https://www.luma-ai.com/wp-content/uploads/2023/12/LGG.gif)
+![altText](/archivos/pimientos.gif)
 
 
 **Herramientas gratuitas de escaneo 3D**
