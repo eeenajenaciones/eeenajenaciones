@@ -6,7 +6,7 @@
 
 ![altText](/archivos/pimientos_.gif)
 
-> *Recomendación para el curso: como vamos a estar trabajando con muchas herramientas gratuitas de todo tipo y sobretodo online se recomienda crearse una cuenta de correo solo para este curso y así no usar el correo personal :)*
+> *Como vamos a estar trabajando con muchas herramientas gratuitas de todo tipo y sobretodo online se recomienda crearse una cuenta de correo solo para este curso y así no usar el correo personal :)*
 
 ## Herramientas de escaneo 3D
 Las herramientas que se proponen son gratuitas o que como mínimo piden que compartas tus datos creando una cuenta en su app. Todas las fotogrametrías deverían porder hacerse con fotos y videos de telefono movil.
@@ -33,7 +33,7 @@ Las herramientas que se proponen son gratuitas o que como mínimo piden que comp
   - se ejecuta en local en tu ordenador
 
 ## Herramientas de modelado 3D
-Para este curso se recomienda usar el programa de modelado Blender, una herramienta de modelado 3D y manipulación de mallas muy ágil. Además el programa es gratuito, opensource y disponible para todas las plataformas. Se puede trabajar con otros programas 3D como rhino pero para esta primera fase blender es más versatil porque puede abrir mallas en casi todos los formatos y está mucho más optimizado. (Más adelante veremos un poco de herramientas avanzadas sobre Blender)
+Para este curso se propone usar el programa Blender, una herramienta de modelado 3D y manipulación de mallas muy ágil. El programa es gratuito, opensource y disponible para todas las plataformas. Se puede trabajar con otros programas 3D como rhino pero para esta primera fase blender es más versatil y optimizado que permite abrir muchas mallas simultaneas y en casi todos los formatos. (Más adelante veremos más profundamente Blender y Rhino)
 
 - **Blender** (recomendado)
   - https://www.blender.org/
