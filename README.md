@@ -1,6 +1,6 @@
 # Entrenamiento Espacios Enajenaciones
 
-![intro-to-cloud d49bc5f7](archivos/intro.gif)
+![intro-to-cloud d49bc5f7](archivos/intro_.gif)
 
 *Estudio DPA - Territorios digitales*
 
