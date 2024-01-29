@@ -33,11 +33,11 @@ Las herramientas que se proponen son gratuitas o que como mínimo piden que comp
   - se ejecuta en local en tu ordenador
 
 ## Herramientas de modelado 3D
-Para este curso se recomienda usar el programa de modelado Blender, una herramienta de modelado 3D y manipulación de mallas muy ágil. Además el programa es gratuito, opensource y disponible para todas las plataformas. Se puede trabajar con otros programas 3D como rhino pero para esta primera fase blender es más versatil porque puede abrir mallas en casi todos los formatos y está mucho más optimizado.
+Para este curso se recomienda usar el programa de modelado Blender, una herramienta de modelado 3D y manipulación de mallas muy ágil. Además el programa es gratuito, opensource y disponible para todas las plataformas. Se puede trabajar con otros programas 3D como rhino pero para esta primera fase blender es más versatil porque puede abrir mallas en casi todos los formatos y está mucho más optimizado. (Más adelante veremos un poco de herramientas avanzadas sobre Blender)
 
 - **Blender** (recomendado)
   - https://www.blender.org/
-  - tutorial de inicio:
+  - tutorial de inicio a blender: https://youtu.be/B0J27sf9N1Y?si=qwDijPUjpsMukeyK
 
 - **Rhinoceros**
   - https://www.rhino3d.com/es/
