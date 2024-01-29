@@ -4,7 +4,7 @@
 
 # Fotogrametrías y escaneo 3D
 
-![altText](/archivos/pimientos.gif)
+![altText](/archivos/pimientos_.gif)
 
 
 **Herramientas gratuitas de escaneo 3D**
