@@ -9,7 +9,7 @@
 > *Como vamos a estar trabajando con muchas herramientas gratuitas de todo tipo y sobretodo online se recomienda crearse una cuenta de correo solo para este curso y así no usar el correo personal :)*
 
 ## Herramientas de escaneo 3D
-Las herramientas que se proponen son gratuitas o que como mínimo piden que compartas tus datos creando una cuenta en su app. Todas las fotogrametrías deverían porder hacerse con fotos y videos de telefono movil.
+Las herramientas que se proponen son gratuitas o que como mínimo piden que compartas tus datos creando una cuenta en su app. Todas las fotogrametrías deverían poder hacerse con fotos y videos de telefono movil.
 
 - **Reality Scan** 
   - link: [realityScan](https://www.unrealengine.com/en-US/realityscan)
