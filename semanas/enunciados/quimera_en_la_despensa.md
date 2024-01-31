@@ -30,7 +30,7 @@ La quimera, una amalgama de sabores y texturas, comenzó a desplazarse entre las
 
 ### **Entrega**
 
-*5 de febrero de 2024 antes de las 19:00 en [MIRO](https://miro.com/)*
+*5 de febrero de 2024 antes de las 19:00 en [MIRO](https://miro.com/app/board/uXjVN1J8oIk=/?share_link_id=652324629133)*
 
 Subir planta y alzados de quimera generada
 
