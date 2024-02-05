@@ -7,7 +7,8 @@
 - Enunciado: [Quimera en la despensa](enunciados/quimera_en_la_despensa.md)
 
 ### Semana 2 - 05/02/2024
-- ...
+- Herramienta: [🖼️ Generación de imágenes - Modelos de difusión](herramientas/generación_de_imagenes.md)
+- Enunciado: [Bourriadas ciclotímicas](enunciados/bourriadas_ciclotimicas.md)
 
 ### Semana 3 - 12/02/2024
 - ...
