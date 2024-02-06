@@ -91,10 +91,16 @@ Esta ventana abre además dos parámetros, `Stop At` que indica en qué momento 
 ![gradio](/archivos/piracanny.png)
 ![gradio](/archivos/piracanny2.png)
 
-## 5. Relleno de imagen
+## 5. Relleno de imagen - Inpainting
 
 Puedes rellenar una imagen en el último apartado `INPAINT OR OUTPAINT` pitando con el pincel aquellas zonas que quieras eliminar. ⚠️IMPORTANTE⚠️ Ten cuidado con el tamaño de las imágenes, si es demasiado grande puede darte error el Colab.
 
 ![gradio](/archivos/inpainting.png)
+
+## 6. Relleno de imagen - Outpainting
+
+También puedes rellenar la imagen hacia fuera seleccionando la dirección `Left`, `Right`, `Top` y `Bottom`
+
+![gradio](/archivos/outpainting.png)
 
 ## **Enunciado semana 2** ➔ [Bourriadas ciclotímicas](/semanas/enunciados/bourriadas_ciclotimicas.md)
