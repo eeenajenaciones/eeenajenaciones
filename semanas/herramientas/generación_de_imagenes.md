@@ -66,6 +66,22 @@ Para transformar una imagen en otra se usa el apartado `UPSCALE OR VARIATION`. S
 
 ![gradio](/archivos/image2image.png)
 
+`Vary (Subtle)` o `Vary (Strong)` son dos valores muy ambiguos y no dan mucho control sobre el resultado. Para controlar mejor la variación puedes ir a `ADVANCED` >> `ADVANCED` >> `DEVELOPER DEBUG MODE` >> `Forced Overwrite of Denoising Strength of "Vary"`. Ese slider controla la variación de la imagen desde `0` no varía nada a `1` que la imagen desaparece. Se recomienda usar valores entre `0.5` y `0.8`
 
+![gradio](/archivos/advanced_settings.png)
+![gradio](/archivos/advanced_settings2.png)
+
+### 4. Generación texto + imagen ➔ imagen
+
+También se pueden usar imágenes de referencia en la pestaña `IMAGE PROMPT` para controlar mejor el ouput. 
+
+
+
+####`⚠️ERROR⚠️`
+
+Seguramente el cuaderno de error cuando cambies de herramienta porque has cargado demasiada memoria. La manera de arreglarlo es volver al colab y volver a darle al play para que se cargue de nuevo el cuaderno hasta que aparezca de nuevo el link. Ten cuidado porque los ajustes que hagas previos se perderán.
+
+![gradio](/archivos/error.png)
+![gradio](/archivos/error2.png)
 
 ## **Enunciado semana 2** ➔ [Bourriadas ciclotímicas](/semanas/enunciados/bourriadas_ciclotimicas.md)
