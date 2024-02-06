@@ -71,7 +71,7 @@ Para transformar una imagen en otra se usa el apartado `UPSCALE OR VARIATION`. S
 
 También se pueden usar imágenes de referencia en la pestaña `IMAGE PROMPT` para controlar mejor el ouput. 
 
-
+![gradio](/archivos/image_prompt.png)
 
 ### ⚠️ERROR⚠️
 
@@ -79,5 +79,16 @@ Seguramente el cuaderno de error cuando cambies de herramienta porque has cargad
 
 ![gradio](/archivos/error.png)
 ![gradio](/archivos/error2.png)
+
+### Usar geomatrías de referencia
+
+Puedes tener mayor control sobre la geometría de la imagen abriendo las opciones `ADVANCED` en la parte de abajo de la pestaña `IMAGE PROMPT`. Esta opción abre muchas opciones entre ellas puedes usar la opción `PyraCanny`.
+
+![gradio](/archivos/image_prompt2.png)
+
+Esta ventana abre además dos parámetros, `Stop At` que indica en qué momento de la generación debe dejar de influir y `Weight` que indica cuánto influye a cada imagen. El ejemplo siguiente muestra como al aumentar `Stop At` la geometría original se mantiene más.
+
+![gradio](/archivos/piracanny.png)
+![gradio](/archivos/piracanny2.png)
 
 ## **Enunciado semana 2** ➔ [Bourriadas ciclotímicas](/semanas/enunciados/bourriadas_ciclotimicas.md)
