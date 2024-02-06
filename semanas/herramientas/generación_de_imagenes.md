@@ -30,11 +30,7 @@ Colab: [Generación de imágenes (SDXL)](https://colab.research.google.com/drive
 - **Midjourney:** (de pago) - [midjourney.com](https://www.midjourney.com/home)
 - **Firefly:** (de pago) - [adobe.com/es/products/firefly](https://www.adobe.com/es/products/firefly.html)
 
-## 1. Encender Fooocus en Colab
-
-| Colab | Info
-| --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb) | Fooocus Official
+## 1. Encender Fooocus en Colab ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
 EL primer paso es darle al play para encender instalar y ejecutar Fooocus
 
