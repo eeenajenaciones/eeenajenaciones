@@ -30,4 +30,42 @@ Colab: [Generación de imágenes (SDXL)](https://colab.research.google.com/drive
 - **Midjourney:** (de pago) - [midjourney.com](https://www.midjourney.com/home)
 - **Firefly:** (de pago) - [adobe.com/es/products/firefly](https://www.adobe.com/es/products/firefly.html)
 
+### 1. Encender Fooocus en Colab
+
+| Colab | Info
+| --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb) | Fooocus Official
+
+EL primer paso es darle al play para encender instalar y ejecutar Fooocus
+
+![play](/archivos/play.png)
+
+Esperar hasta que aparezca el link HTTPS://................GRADIO.LIVE
+
+![gradio](/archivos/gradio.png)
+
+### 2. Ajustes previos a generar una imagen
+
+En la pestaña `ADVANCED` puedes ajustar los parametros de la imagen. Se recomienda trabajar primero en el modo `SPEED` para hacer pruebas rápidamente y cuándo se quieran mejores resultados usar las otras opciones. Además es recomendable dejar el número de imágenes en 2 ya que si se sube demasiado el colab podría dar ERROR
+
+![gradio](/archivos/ajustes.png)
+
+Recuerda por último apagar los estilos que vienen por defecto
+
+![gradio](/archivos/apagar_estilos.png)
+
+### 3. Generación texto ➔ imagen
+
+Introduce un texto en la celda inferior con la descripción de la imagen. En la descripción puedes incluir tanta información como quieras describiendo el estilo, el tipo de imagen su contenido, etc...
+
+![gradio](/archivos/text2image.png)
+
+### 4. Transformación imagen ➔ imagen
+
+Para transformar una imagen en otra se usa el apartado `UPSCALE OR VARIATION`. Sube una imagen y selecciona `Vary (Subtle)` o `Vary (Strong)` para modificar la imagen siguiendo el texto de la celda.
+
+![gradio](/archivos/image2image.png)
+
+
+
 ## **Enunciado semana 2** ➔ [Bourriadas ciclotímicas](/semanas/enunciados/bourriadas_ciclotimicas.md)
