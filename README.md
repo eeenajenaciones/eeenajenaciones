@@ -13,6 +13,9 @@ Redes neuronales, prototipado, algoritmia y alquimia proyectual.
 ## 🛠️ Herramientas y enunciados
 [Acceso a herramientas y enunciados](/semanas/README.md)
 
+## ✋ FAQs
+[Google Colab](/faqs/google_colab.md)
+
 ## 🧨 Referencias
 ...
 
