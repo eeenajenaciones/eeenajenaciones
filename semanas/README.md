@@ -11,7 +11,8 @@
 - Enunciado: [Bourriadas ciclotímicas](enunciados/bourriadas_ciclotimicas.md)
 
 ### Semana 3 - 12/02/2024
-- ...
+- Herramienta: [🌐 Generación de modelos 3D](herramientas/genearcion_de_modelos_3d.md)
+- Enunciado: [Nubes de hormigón](enunciados/nubes_de_hormigon.md)
 
 ### Semana 4 - 19/02/2024
 - ...
