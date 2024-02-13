@@ -10,7 +10,7 @@
 
 Genie. Luma Labs (gratuita): [lumalabs.ai/genie](https://lumalabs.ai/genie?view=create)
 
-Colab: [🌐 Generación de modelos 3D (DreamGaussian)](https://colab.research.google.com/drive/1nU-M7U2YWzLQNy1Tlm8k07blBlpGXHw1?usp=sharing) 
+🆕 Colab actualizado!: [🌐 Generación de modelos 3D (DreamGaussian)](https://colab.research.google.com/drive/10m8fyADEe37exBRzwRXKsolyPwnGmAnB?usp=sharing) 
 
 ![Untitled](https://github.com/eeenajenaciones/backend/assets/157328061/a16834dc-9226-4c47-88e0-e477df9e0f55)
 
