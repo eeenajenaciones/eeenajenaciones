@@ -28,3 +28,10 @@ Blender - https://www.blender.org/
 
 # **Enunciado semana 3** ➔ [Nubes de hormigón](enunciados/nubes_de_hormigon.md)
 
+## Bonus: Texto y/o imagen a malla
+
+Hugging Face Demo: [spaces/ashawkey/LGM](https://huggingface.co/spaces/ashawkey/LGM)
+
+Colab: [🌐 Generación de modelos 3D - LGM](https://colab.research.google.com/drive/1v_mlLgOZsBUt42-jQJP68tziBym_ugIS?usp=sharing)
+
+Colab: [🌐 LGM - PLY to Mesh](https://colab.research.google.com/drive/1lDnyThYTojHbpj-utq611u4er7zJuaJi?usp=sharing)
