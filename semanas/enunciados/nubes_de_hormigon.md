@@ -11,7 +11,7 @@ No buscaba belleza ni reconocimiento; lo suyo era una especie de venganza contra
 ### **Instrucciones**
 
 1. Seleccionar/filtrar 8 imágenes de la “matriz” que, al menos, sean dos interiores, dos exteriores y dos arquitecturas.
-2. Generar 20 transformaciones de cada imagen a una malla tridimensional, mediante modificaciones de la imagen, del prompt textual o de la superficie geométrica. Por lo tanto, al cabo de la semana cada estudiante habrá generado 160 mallas.
+2. Generar 20 transformaciones de cada imagen a una malla tridimensional, mediante modificaciones de la imagen, del prompt textual o de la superficie geométrica. Por lo tanto, al cabo de la semana cada estudiante habrá generado 5 mallas.
 > buscando la diferencia en la repetición y la diversidad como si se tratase de un repositorio de versiones de mallas, un registro bibliográfico
 
 ### **Entrega**
