@@ -16,7 +16,7 @@ Genie. Luma Labs (gratuita): [lumalabs.ai/genie](https://lumalabs.ai/genie?view=
 
 Hugging Face Demo (recomendada): [spaces/ashawkey/LGM](https://huggingface.co/spaces/ashawkey/LGM)
 
-Colab - version gradio (recomendada) - versión de Kristoff!, graciass :) [🌐 Generación de modelos 3D - LGM - Gradio](https://colab.research.google.com/drive/11oQDXINssCOBaNtYk7qeglpHXADitwR7?usp=sharing)
+Colab - version gradio (recomendada) - versión de Kristof, graciass :) [🌐 Generación de modelos 3D - LGM - Gradio](https://colab.research.google.com/drive/11oQDXINssCOBaNtYk7qeglpHXADitwR7?usp=sharing)
 
 Colab - version python: [🌐 Generación de modelos 3D - LGM](https://colab.research.google.com/drive/1v_mlLgOZsBUt42-jQJP68tziBym_ugIS?usp=sharing)
 
