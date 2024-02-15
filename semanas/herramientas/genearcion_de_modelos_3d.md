@@ -6,13 +6,13 @@
 
 ![dream](https://i.imgur.com/1pERFQI.gif)
 
-## Texto o imagen a malla
+## DreamGaussian: Texto o imagen a malla
 
 Genie. Luma Labs (gratuita): [lumalabs.ai/genie](https://lumalabs.ai/genie?view=create)
 
 🆕 Colab actualizado!: [🌐 Generación de modelos 3D (DreamGaussian)](https://colab.research.google.com/drive/10m8fyADEe37exBRzwRXKsolyPwnGmAnB?usp=sharing) 
 
-## Bonus: Texto y/o imagen a malla
+## LGM: Texto y/o imagen a malla (recomendado)
 
 Hugging Face Demo (recomendada): [spaces/ashawkey/LGM](https://huggingface.co/spaces/ashawkey/LGM)
 
