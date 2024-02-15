@@ -30,8 +30,10 @@ Blender - https://www.blender.org/
 
 ## Bonus: Texto y/o imagen a malla
 
-Hugging Face Demo: [spaces/ashawkey/LGM](https://huggingface.co/spaces/ashawkey/LGM)
+Hugging Face Demo (recomendada): [spaces/ashawkey/LGM](https://huggingface.co/spaces/ashawkey/LGM)
 
-Colab: [🌐 Generación de modelos 3D - LGM](https://colab.research.google.com/drive/1v_mlLgOZsBUt42-jQJP68tziBym_ugIS?usp=sharing)
+Colab - version gradio (recomendada) - versión de Kristoff!, graciass :) [🌐 Generación de modelos 3D - LGM - Gradio](https://colab.research.google.com/drive/11oQDXINssCOBaNtYk7qeglpHXADitwR7?usp=sharing)
 
-Colab: [🌐 LGM - PLY to Mesh](https://colab.research.google.com/drive/1lDnyThYTojHbpj-utq611u4er7zJuaJi?usp=sharing)
+Colab - version python: [🌐 Generación de modelos 3D - LGM](https://colab.research.google.com/drive/1v_mlLgOZsBUt42-jQJP68tziBym_ugIS?usp=sharing)
+
+Colab - version python (lenta): [🌐 LGM - PLY to Mesh](https://colab.research.google.com/drive/1lDnyThYTojHbpj-utq611u4er7zJuaJi?usp=sharing)
