@@ -20,4 +20,4 @@ No buscaba belleza ni reconocimiento; lo suyo era una especie de venganza contra
 
 Subir las mallas originales seleccionadas como archivo .obj
 
-**Subir las 8 matrices de 2x10 con las mallas tridimensionales generadas, en planta, alzado o axonométrica, pero todas en la misma perspectiva para facilitar su comparación.**
+**Subir las 1 matrices de 8x5 con las mallas tridimensionales generadas, en planta, alzado o axonométrica, pero todas en la misma perspectiva para facilitar su comparación.**
