@@ -26,7 +26,7 @@
 - Enunciado: [Dime quién soy](enunciados/dime_quien_soy.md)
 - Referencias:
   - [George Perec, Tentativa de agotar un lugar parisino. Pp. 33-42](https://drive.upm.es/s/vcxPuwM939uhcMj)
-](https://www.e-flux.com/journal/137/544269/the-completion/)
+
 
 ### Semana 5 - 26/02/2024
 - ...
