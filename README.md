@@ -1,4 +1,4 @@
-# Entrenamiento Espacios Enajenaciones
+ # Entrenamiento Espacios Enajenaciones
 
 ![intro-to-cloud d49bc5f7](archivos/intro_.gif)
 
@@ -15,6 +15,7 @@ Redes neuronales, prototipado, algoritmia y alquimia proyectual.
 
 ## ✋ FAQs
 - [Google Colab](/faqs/google_colab.md)
+- [Miro](/faqs/miro.md)
 
 ## 🧨 Referencias
 ...
