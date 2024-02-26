@@ -27,9 +27,11 @@
 - Referencias:
   - [George Perec, Tentativa de agotar un lugar parisino. Pp. 33-42](https://drive.upm.es/s/vcxPuwM939uhcMj)
 
-
-### Semana 5 - 26/02/2024
-- ...
+### Semana 5 - 26/02/2024 
+- Herramienta: [🗺️ Generación de imágenes - Infinity canvas](herramientas/infinity_canvas.md)
+- Enunciado: [Argumentum Ad Ignorantiam](enunciados/argumentum_ad_ignorantiam.md)
+- Referencias:
+  - [Hito Steyerl, A Sea of Data: Apophenia and Pattern (Mis-)Recognition](https://www.e-flux.com/journal/72/60480/a-sea-of-data-apophenia-and-pattern-mis-recognition/)
 
 ### Semana 6 - 04/03/2024
 - ...
