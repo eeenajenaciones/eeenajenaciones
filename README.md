@@ -19,7 +19,12 @@ Redes neuronales, prototipado, algoritmia y alquimia proyectual.
 - [Miro](/faqs/miro.md)
 
 ## 🧨 Referencias
-...
+- [Marcel Duchamp, Escritos. Pp. 162-166](https://bibliotecatrevijano.files.wordpress.com/2014/10/75213741-marcel-duchamp-escritos-duchamp-du-signe.pdf) 
+- Gilles Deleuze, Diferencia y Repetición. 
+- [Nicolás Bourriaud, Postproducción. Pp. 7-17](https://drive.upm.es/s/9wcy54EwvEN4Gaf)
+- [Paul Virilio, La máquina de visión. Pp. 77-98](https://drive.upm.es/s/9SqFBkHunipdsyC)
+- [George Perec, Tentativa de agotar un lugar parisino. Pp. 33-42](https://drive.upm.es/s/vcxPuwM939uhcMj)
+- [Hito Steyerl, A Sea of Data: Apophenia and Pattern (Mis-)Recognition](https://www.e-flux.com/journal/72/60480/a-sea-of-data-apophenia-and-pattern-mis-recognition/)
 
 ## 🗃️ Repositorio de archivos
 ...
