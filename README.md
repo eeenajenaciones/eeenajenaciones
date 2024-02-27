@@ -17,6 +17,7 @@ Redes neuronales, prototipado, algoritmia y alquimia proyectual.
 ## ✋ FAQs
 - [Google Colab](/faqs/google_colab.md)
 - [Miro](/faqs/miro.md)
+- [Blosm](/faqs/blosm.md)
 
 ## 🧨 Referencias
 - [Marcel Duchamp, Escritos. Pp. 162-166](https://bibliotecatrevijano.files.wordpress.com/2014/10/75213741-marcel-duchamp-escritos-duchamp-du-signe.pdf) 
