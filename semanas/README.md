@@ -34,7 +34,7 @@
   - [Hito Steyerl, A Sea of Data: Apophenia and Pattern (Mis-)Recognition](https://www.e-flux.com/journal/72/60480/a-sea-of-data-apophenia-and-pattern-mis-recognition/)
 
 ### Semana 6 - 04/03/2024
-- ...
-
-### Semana 7 - 11/03/2024
-- ...
+- Herramienta: [🌈 Algoritmos de segmentación](herramientas/segmentacion.md)
+- Enunciado: [Ojos maquínicos deciden por mi](enunciados/ojos_maquinicos_deciden_por_mi.md)
+- Referencias:
+  -[Franco “Bifo” Berardi, The Completion.](https://www.e-flux.com/journal/137/544269/the-completion/)
