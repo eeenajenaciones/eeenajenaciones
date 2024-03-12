@@ -35,6 +35,5 @@
 
 ### Semana 6 - 04/03/2024
 - Herramienta: [🌈 Algoritmos de segmentación](herramientas/segmentacion.md)
-- Enunciado: [Ojos maquínicos deciden por mi](enunciados/ojos_maquinicos_deciden_por_mi.md)
 - Referencias:
   -[Franco “Bifo” Berardi, The Completion.](https://www.e-flux.com/journal/137/544269/the-completion/)
