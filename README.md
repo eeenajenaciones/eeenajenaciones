@@ -6,6 +6,9 @@
 
 Redes neuronales, prototipado, algoritmia y alquimia proyectual.
 
+## 🌺 ENTREGAS
+
+- [Entrega primera parte del curso](/archivos/entrega.pdf)
 
 ## 📌 MIRO
 - [MIRO individual](https://miro.com/app/board/uXjVN1J8oIk=/?share_link_id=652324629133)
