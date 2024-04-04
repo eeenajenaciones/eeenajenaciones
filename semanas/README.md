@@ -1,4 +1,4 @@
-[[← Volver](/README.md)
+[← Volver](/README.md)
 
 # 🛠️ Herramientas, enunciados y referencias
 
