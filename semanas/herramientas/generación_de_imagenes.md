@@ -100,6 +100,12 @@ También puedes rellenar la imagen hacia fuera seleccionando la dirección `Left
 
 ![gradio](/archivos/outpainting.png)
 
+## Mezclando técnicas
+
+Podéis mezclar el control del `IMAGE PROMPT` tanto con `VARIATION` como con `INPAINT OR OUTPAINT` para condicionar más el resultado.
+
+![gradio](/archivos/mixing.png)
+
 ### ⚠️ERROR⚠️
 
 Seguramente el cuaderno de error cuando cambies de herramienta porque has cargado demasiada memoria. La manera de arreglarlo es volver al colab y volver a darle al play para que se cargue de nuevo el cuaderno hasta que aparezca de nuevo el link. Ten cuidado porque los ajustes que hagas previos se perderán.
