@@ -21,7 +21,7 @@ Colab: [Generación de imágenes (SDXL)](https://colab.research.google.com/drive
 ## Modelos de difusión
 - **Stable Diffusion:** (recomendado)
   - Interfaces:
-    - [Fooocus]([https://github.com/lllyasviel/Fooocus](https://colab.research.google.com/drive/1-QIIehfHQB5-hUafLlAMGcpP6BQ2jOJV?usp=sharing)) (recomendada)
+    - [Fooocus](https://colab.research.google.com/drive/1-QIIehfHQB5-hUafLlAMGcpP6BQ2jOJV?usp=sharing) (recomendada)
     - [Automatic111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
     - [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 
