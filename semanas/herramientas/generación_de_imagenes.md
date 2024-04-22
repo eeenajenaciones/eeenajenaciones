@@ -77,13 +77,6 @@ También se pueden usar imágenes de referencia en la pestaña `IMAGE PROMPT` pa
 
 ![gradio](/archivos/image_prompt.png)
 
-### ⚠️ERROR⚠️
-
-Seguramente el cuaderno de error cuando cambies de herramienta porque has cargado demasiada memoria. La manera de arreglarlo es volver al colab y volver a darle al play para que se cargue de nuevo el cuaderno hasta que aparezca de nuevo el link. Ten cuidado porque los ajustes que hagas previos se perderán.
-
-![gradio](/archivos/error.png)
-![gradio](/archivos/error2.png)
-
 ### Usar geometrías de referencia
 
 Puedes tener mayor control sobre la geometría de la imagen abriendo las opciones `ADVANCED` en la parte de abajo de la pestaña `IMAGE PROMPT`. Esta opción abre muchas opciones entre ellas puedes usar la opción `PyraCanny`.
@@ -106,5 +99,12 @@ Puedes rellenar una imagen en el último apartado `INPAINT OR OUTPAINT` pitando 
 También puedes rellenar la imagen hacia fuera seleccionando la dirección `Left`, `Right`, `Top` y `Bottom`
 
 ![gradio](/archivos/outpainting.png)
+
+### ⚠️ERROR⚠️
+
+Seguramente el cuaderno de error cuando cambies de herramienta porque has cargado demasiada memoria. La manera de arreglarlo es volver al colab y volver a darle al play para que se cargue de nuevo el cuaderno hasta que aparezca de nuevo el link. Ten cuidado porque los ajustes que hagas previos se perderán.
+
+![gradio](/archivos/error.png)
+![gradio](/archivos/error2.png)
 
 ## **Enunciado semana 2** ➔ [Bourriadas ciclotímicas](/semanas/enunciados/bourriadas_ciclotimicas.md)
