@@ -21,7 +21,7 @@ Colab: [Generación de imágenes (SDXL)](https://colab.research.google.com/drive
 ## Modelos de difusión
 - **Stable Diffusion:** (recomendado)
   - Interfaces:
-    - [Fooocus](https://github.com/lllyasviel/Fooocus) (recomendada)
+    - [Fooocus]([https://github.com/lllyasviel/Fooocus](https://colab.research.google.com/drive/1-QIIehfHQB5-hUafLlAMGcpP6BQ2jOJV?usp=sharing)) (recomendada)
     - [Automatic111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
     - [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 
@@ -30,7 +30,7 @@ Colab: [Generación de imágenes (SDXL)](https://colab.research.google.com/drive
 - **Midjourney:** (de pago) - [midjourney.com](https://www.midjourney.com/home)
 - **Firefly:** (de pago) - [adobe.com/es/products/firefly](https://www.adobe.com/es/products/firefly.html)
 
-## 1. Encender Fooocus en Colab ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+## 1. Encender Fooocus en Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-QIIehfHQB5-hUafLlAMGcpP6BQ2jOJV?usp=sharing)
 
 EL primer paso es darle al play para encender instalar y ejecutar Fooocus
 
