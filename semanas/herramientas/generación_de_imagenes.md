@@ -32,9 +32,9 @@ Colab: [Generación de imágenes (SDXL)](https://colab.research.google.com/drive
 
 ## 1. Encender Fooocus en Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-QIIehfHQB5-hUafLlAMGcpP6BQ2jOJV?usp=sharing)
 
-EL primer paso es darle al play para encender instalar y ejecutar Fooocus
+El primer paso es darle al play para encender instalar y ejecutar Fooocus
 
-![play](/archivos/play.png)
+![play](/archivos/inicio.png)
 
 Esperar hasta que aparezca el link HTTPS://................GRADIO.LIVE
 
@@ -49,6 +49,10 @@ En la pestaña `ADVANCED` puedes ajustar los parametros de la imagen. Se recomie
 Recuerda por último apagar los estilos que vienen por defecto
 
 ![gradio](/archivos/apagar_estilos.png)
+
+⚠️RECOMENDACIÓN⚠️ Se recomienda no trabajar con el seeds random. Si cada vez que generas una imagen se cambia el número aleatoriamente es muy dificil saber si los cambios que has hecho funcionan o no porque añade mucha aleatoriedad. Si no te gusta la imagen
+
+![gradio](/archivos/random.png)
 
 ## 3. Generación texto ➔ imagen
 
