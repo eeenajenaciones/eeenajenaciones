@@ -84,7 +84,7 @@ Seguramente el cuaderno de error cuando cambies de herramienta porque has cargad
 ![gradio](/archivos/error.png)
 ![gradio](/archivos/error2.png)
 
-### Usar geomatrías de referencia
+### Usar geometrías de referencia
 
 Puedes tener mayor control sobre la geometría de la imagen abriendo las opciones `ADVANCED` en la parte de abajo de la pestaña `IMAGE PROMPT`. Esta opción abre muchas opciones entre ellas puedes usar la opción `PyraCanny`.
 
